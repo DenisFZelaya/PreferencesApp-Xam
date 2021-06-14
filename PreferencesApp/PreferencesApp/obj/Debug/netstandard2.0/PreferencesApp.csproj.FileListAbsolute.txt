@@ -1,0 +1,14 @@
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\bin\Debug\netstandard2.0\PreferencesApp.deps.json
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\bin\Debug\netstandard2.0\PreferencesApp.dll
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\bin\Debug\netstandard2.0\ref\PreferencesApp.dll
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\bin\Debug\netstandard2.0\PreferencesApp.pdb
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\PreferencesApp.csproj.AssemblyReference.cache
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\PreferencesApp.AssemblyInfoInputs.cache
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\PreferencesApp.AssemblyInfo.cs
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\PreferencesApp.csproj.CoreCompileInputs.cache
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\PreferencesApp.dll
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\ref\PreferencesApp.dll
+D:\Proyectos\Xamarin\PreferencesApp\PreferencesApp\PreferencesApp\obj\Debug\netstandard2.0\PreferencesApp.pdb
